@@ -1,0 +1,37 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/nypyp/catkin_ws/devel/include/**",
+        "/home/nypyp/ros_stm32_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/nypyp/catkin_ws/src/VINS-Mono/camera_model/include/**",
+        "/home/nypyp/ros_stm32_ws/src/ld3320_ros/include/**",
+        "/home/nypyp/catkin_ws/src/learing_msgs/include/**",
+        "/home/nypyp/catkin_ws/src/learning_communication/include/**",
+        "/home/nypyp/catkin_ws/src/learning_head/include/**",
+        "/home/nypyp/catkin_ws/src/learning_hello/include/**",
+        "/home/nypyp/catkin_ws/src/learning_python/include/**",
+        "/home/nypyp/catkin_ws/src/learning_srv_clnt/include/**",
+        "/home/nypyp/catkin_ws/src/learning_tf/include/**",
+        "/home/nypyp/catkin_ws/src/learning_topic/include/**",
+        "/home/nypyp/ros_stm32_ws/src/nav/include/**",
+        "/home/nypyp/ros_stm32_ws/src/serial/include/**",
+        "/home/nypyp/catkin_ws/src/test_pkg/include/**",
+        "/home/nypyp/catkin_ws/src/tf02_turtles/include/**",
+        "/home/nypyp/ros_stm32_ws/src/turtlebot_exploration_3d/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

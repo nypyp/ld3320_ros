@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/nypyp/ros_stm32_ws/devel/lib/python2.7/dist-packages",
+        "/home/nypyp/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/nypyp/ros_stm32_ws/devel/lib/python2.7/dist-packages",
+        "/home/nypyp/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}
